@@ -1,9 +1,9 @@
 # RISC-V Single-Cycle CPU Implementation on Artix-7 FPGA
 
 ## Team Members
-- [Omar Ganna] (https://github.com/Kancipher) 
-- [Ramy Shehata] (https://github.com/GM-Sniper)
-- [Mohamed Khaled] (https://github.com/mmohamedkhaled)
+- [Omar Ganna](https://github.com/Kancipher) 
+- [Ramy Shehata](https://github.com/GM-Sniper)
+- [Mohamed Khaled](https://github.com/mmohamedkhaled)
 
 ## Project Overview
 This project involves designing and implementing a single-cycle RV32i CPU on an Artix-7 FPGA using the Basys3 board. The CPU is capable of executing machine-level code for a RISC-V CPU, implemented in Verilog. Our primary goal was to create a CPU where each instruction is executed in exactly one clock cycle. The CPU supports a subset of the RV32i instruction set, excluding system instructions such as ECALL, EBREAK, and FENCE.
